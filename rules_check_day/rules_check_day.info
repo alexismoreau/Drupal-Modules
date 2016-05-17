@@ -1,0 +1,5 @@
+name = Rules Day Check
+description = Check opening days
+package = Rules
+core = 7.x
+dependencies[] = rules

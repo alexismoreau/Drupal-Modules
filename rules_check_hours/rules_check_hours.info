@@ -1,0 +1,5 @@
+name = Rules Opening Hours Check
+description = Check opening hours
+package = Rules
+core = 7.x
+dependencies[] = rules
